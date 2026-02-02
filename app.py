@@ -21,7 +21,7 @@ CORS(app)
 con_pool = mysql.connector.pooling.MySQLConnectionPool(
     pool_name="my_pool",
     pool_size=5,
-    host="185.232.14.52",
+    host="31.97.208.22",
     database="u760464709_16005339_bd",
     user="u760464709_16005339_usr",
     password="/iJRzrJBz+P1"
