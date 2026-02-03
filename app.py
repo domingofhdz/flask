@@ -24,7 +24,7 @@ con_pool = mysql.connector.pooling.MySQLConnectionPool(
     host="31.97.208.22",
     database="u760464709_16005339_bd",
     user="u760464709_16005339_usr",
-    password="/iJRzrJBz+P1"
+    password="|Au/mc*H2jH3"
 )
 """
 con_pool = mysql.connector.pooling.MySQLConnectionPool(
